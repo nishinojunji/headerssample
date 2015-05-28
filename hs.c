@@ -7,7 +7,7 @@
 Mytype mytype_init(){
   Mytype d;
 
-  d.dat = 0;
+  d.dat = 100;
 
   return d;
 }
